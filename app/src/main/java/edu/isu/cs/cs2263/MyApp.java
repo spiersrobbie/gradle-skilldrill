@@ -13,7 +13,7 @@ import javafx.scene.control.ListView;
 import javafx.scene.layout.VBox;
 import java.util.List;
 
-public class App extends Application{
+public class MyApp extends Application{
 
     public void start(Stage stage) throws Exception {
         Label label = new Label("Students");
